@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Research Scientist at Intel Corporation; interest in homomorphic encryption and privacy-preserving machine learning"
   location         : "USA"
-  employer         :
+  employer         : Intel Corporation
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=0e_DjyMAAAAJ&hl=en&oi=ao"
   email            : "fabiboemer@gmail.com"
