@@ -16,3 +16,5 @@ I received my M.S. in Computational and Mathematical Engineering from Stanford U
 I enjoy tackling problems at the intersection of mathematics and software engineering. I am currently working on homomorphic encryption and other privacy-preserving machine learning technologies.
 
 I also enjoy learning the nitty gritty details of C++ and optimizing a software development workflow using modern tools such as [iTerm](https://www.iterm2.com/), [VS Code](https://code.visualstudio.com/), [pre-commit](https://pre-commit.com/), and [clang-format](https://clang.llvm.org/docs/ClangFormat.html)
+
+My personal interests include running, cycling, soccer, and playing clarinet.
