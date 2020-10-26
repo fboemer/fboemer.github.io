@@ -1,8 +1,8 @@
 ---
-title: "MP2ML: A Mixed-protocol Machine Learning Framework for Private Inference"
+title: "MP2ML: A Mixed-protocol Machine Learning Framework for Private Inference (Extended Abstract)"
 collection: publications
 permalink: /publications/mp2ml
-venue: 'ARES 2020; Contributed Talk at Crypto 2020 PPML'
+venue: 'PPMLP 2020 Workshop at CCS 2020; Poster at PPML Workshop at NeurIPS 2020'
 paperurl: 'https://dl.acm.org/doi/10.1145/3407023.3407045'
 authors: '<b>Fabian Boemer</b>, Rosario Cammarota, Daniel Demmler, Thomas Schneider, Hossein Yalame'
 ---
