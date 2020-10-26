@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a research scientist at Intel AI working on homomorphic encryption.
+I'm currently a research scientist at Intel AI working on homomorphic encryption. Most recently I've been working on [nGraph-HE](https://github.com/IntelAI/he-transformer), an open-source framework for deep learning inference on homomorphically encrypted data.
 
 I received my M.S. in Computational and Mathematical Engineering from Stanford University, and a B.S. in Computer Science and a B.S. in Applied and Computational Mathematics from Caltech.
 
