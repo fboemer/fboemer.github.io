@@ -2,7 +2,6 @@
 title: "Parameter-Free Image Segmentation with SLIC"
 collection: publications
 permalink: /publications/pf-slic
-excerpt: 'exceprt'
 venue: 'Neurocomputing 2018'
 paperurl: 'https://doi.org/10.1016/j.neucom.2017.05.096'
 authors: ' <b>Fabian Boemer</b>, Edward Ratner, Amaury Lendasse'
