@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Fabian Boemer"
-  avatar           : "profile.png"
+  avatar           : "fabian.jpg"
   bio              : "Research Scientist at Intel Corporation; interested in homomorphic encryption and privacy-preserving machine learning"
   location         : "USA"
   employer         : "Intel Corporation"
