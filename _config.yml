@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Fabian Boemer"
   avatar           : "fabian.jpg"
-  bio              : "Research Scientist at Intel Corporation; interested in homomorphic encryption and privacy-preserving machine learning"
+  bio              : "Research Scientist at Intel Corporation; privacy-preserving machine learning, particularly homomorphic encryption"
   location         : "USA"
   employer         : "Intel Corporation"
   pubmed           :

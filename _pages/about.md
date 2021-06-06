@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a research scientist at Intel AI working on homomorphic encryption.
+I'm a research scientist at Intel working on privacy-enhancing technologies. So far, my primary focus has been on homomorphic encryption.
 
 Most recently I've ben working on [Intel HEXL](https://github.com/intel/hexl), an open-source C++ library accelerating homomorphic encryption using AVX512. I've also worked on the [Intel Homomorphic Encryption Toolkit](https://software.intel.com/content/www/us/en/develop/tools/homomorphic-encryption.html?wapkw=homomorphic%20encryption).
 
