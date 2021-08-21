@@ -11,9 +11,9 @@ redirect_from:
 
 For more details, see my Google scholar [profile](https://scholar.google.com/citations?user=0e_DjyMAAAAJ&hl=en&oi=ao).
 
-* **Fabian Boemer**, Sejun Kim, Gelila Seifu, Fillipe D.M. de Souza, Vinodh Gopal. Intel HEXL: Accelerating Homomorphic Encryption with Intel AVX512-IFMA52. 2021. arXiv preprint. [pdf](../files/intel-hexl.pdf)
+* **Fabian Boemer**, Sejun Kim, Gelila Seifu, Fillipe D.M. de Souza, Vinodh Gopal. Intel HEXL: Accelerating Homomorphic Encryption with Intel AVX512-IFMA52. WAHC 2021. [pdf](../files/intel-hexl.pdf)
 
-* **Fabian Boemer**, Rosario Cammarota, Daniel Demmler, Thomas Schneider, Hossein Yalame. Enabling Homomorphically Encrypted Inference for Large DNN Models. IEEE Transactions on Computers 2021. [pdf](../files/enabling-homomorphically-encrypted-inference-for-large-dnn-models.pdf)
+* Guillermo Lloret-Talavera, Marc Jorda, Harald Servat, **Fabian Boemer**, Chetan Chauhan, Shiegki Tomishima, Nilesh N. Shah, and Antonio J. Pena. Enabling Homomorphically Encrypted Inference for Large DNN Models. IEEE Transactions on Computers 2021. [pdf](../files/enabling-homomorphically-encrypted-inference-for-large-dnn-models.pdf)
 
 * Huili Chen, Siam Umar Hussain, **Fabian Boemer**, Emmanuel Stapf, Ahmad Reza Sadeghi, Farinaz Koushanfar, Rosario Cammarota. Developing privacy-preserving AI systems: the lessons learned. 2020 57th ACM/IEEE Design Automation Conference (DAC) [pdf](../files/developing-privacy-preserving-ai-systems-lessons-learned.pdf)
 
