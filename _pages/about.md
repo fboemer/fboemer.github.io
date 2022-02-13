@@ -8,11 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm a research scientist at Intel working on privacy-enhancing technologies. So far, my primary focus has been on homomorphic encryption.
+I'm a cryptography engineer at Apple, working on privacy-enhancing technologies. So far, my primary focus has been on homomorphic encryption.
 
-Most recently I've been working on [Intel HEXL](https://github.com/intel/hexl), an open-source C++ library accelerating homomorphic encryption using AVX512. I've also worked on the [Intel Homomorphic Encryption Toolkit](https://software.intel.com/content/www/us/en/develop/tools/homomorphic-encryption.html?wapkw=homomorphic%20encryption).
-
-Prior to that, I worked on [nGraph-HE](https://github.com/IntelAI/he-transformer), an open-source framework for deep learning inference on homomorphically encrypted data.
+Prior to joining Apple, I was a research scientist at Intel. While at Intel, I led development for [Intel HEXL](https://github.com/intel/hexl), an open-source C++ library accelerating homomorphic encryption using AVX512. I've also worked on the [Intel Homomorphic Encryption Toolkit](https://software.intel.com/content/www/us/en/develop/tools/homomorphic-encryption.html?wapkw=homomorphic%20encryption).
+I also worked on [nGraph-HE](https://github.com/IntelAI/he-transformer), an open-source framework for deep learning inference on homomorphically encrypted data.
 
 I received my M.S. in Computational and Mathematical Engineering from Stanford University. I received my B.S. in Computer Science and B.S. in Applied and Computational Mathematics from Caltech.
 
